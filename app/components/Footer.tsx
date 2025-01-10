@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="mb-4 md:mb-0">
             <p>&copy; {new Date().getFullYear()} Roha Restaurant</p>
           </div>
-          <div className="absolute inset-0 flex justify-center items-center">
+          <div className="md:absolute inset-0 flex justify-center items-center">
             <div className="flex space-x-4">
               <Link
                 href="https://www.instagram.com"

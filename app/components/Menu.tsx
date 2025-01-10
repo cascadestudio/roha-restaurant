@@ -189,7 +189,7 @@ export default function Menu() {
           </div>
         </div>
 
-        <div className="flex justify-center items-center gap-8 text-sm text-[#4A2511] mt-8">
+        <div className="flex justify-center items-center gap-8 text-sm text-[#4A2511] mt-8 md:mt-12">
           <div className="flex items-center gap-2">
             <Leaf className="h-4 w-4 text-green-500" />
             <span>Végétalien</span>
