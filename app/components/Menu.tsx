@@ -54,7 +54,7 @@ export default function Menu() {
         </div>
 
         {/* Rows 2-4: Titles with descriptions */}
-        <div className="space-y-16">
+        <div className="space-y-8 md:space-y-16">
           {/* Row 2 */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
@@ -189,7 +189,7 @@ export default function Menu() {
           </div>
         </div>
 
-        <div className="flex justify-center items-center gap-8 text-sm text-[#4A2511] mt-16">
+        <div className="flex justify-center items-center gap-8 text-sm text-[#4A2511] mt-8">
           <div className="flex items-center gap-2">
             <Leaf className="h-4 w-4 text-green-500" />
             <span>Végétalien</span>
