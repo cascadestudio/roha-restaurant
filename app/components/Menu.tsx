@@ -19,29 +19,29 @@ export default function Menu() {
           <div className="uppercase">
             <div className="relative aspect-square mb-2 sm:mb-4">
               <Image
-                src="https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Sambussa à la française"
+                src="/entree.jpg"
+                alt="Mezzé d'injera"
                 fill
                 className="rounded-md object-cover border border-[#4A2511]"
               />
             </div>
-            <h4 className="text-sm text-[#4A2511]">Sambussa à la française</h4>
+            <h4 className="text-sm text-[#4A2511]">Mezzé d'injera</h4>
           </div>
           <div className="uppercase">
             <div className="relative aspect-square mb-2 sm:mb-4">
               <Image
-                src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Doro wat à la truffe"
+                src="/plat.jpg"
+                alt="Spaghetti con le cozze"
                 fill
                 className="rounded-md object-cover border border-[#4A2511]"
               />
             </div>
-            <h4 className="text-sm text-[#4A2511]">Doro wat à la truffe</h4>
+            <h4 className="text-sm text-[#4A2511]">Spaghetti con le cozze</h4>
           </div>
           <div className="uppercase">
             <div className="relative aspect-square mb-2 sm:mb-4">
               <Image
-                src="https://images.unsplash.com/photo-1675257163429-fc4c8837c662?q=80&w=2044&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="/dessert.jpg"
                 alt="Tarte tatin d'ananas et cardamome"
                 fill
                 className="rounded-md object-cover border border-[#4A2511]"
