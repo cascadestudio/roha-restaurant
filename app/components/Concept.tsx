@@ -18,14 +18,13 @@ export default function Concept() {
             </p>
             <p className="text-lg text-[#4A2511] mb-4">
               La cheffe Frehiwot Zeleke Gurumu, portée par ses racines
-              éthiopiennes, a enrichi sa cuisine en explorant les saveurs
-              italiennes avant de s'installer en France pour partager son art
+              éthiopiennes, a enrichi sa cuisine en explorant la gastronomie
+              italienne avant de s'installer en France pour partager son art
               culinaire.
             </p>
             <p className="text-lg text-[#4A2511]">
-              Roha, c'est bien plus qu'un restaurant : c'est une invitation à
-              découvrir un univers où chaque plat raconte une histoire, un
-              mélange subtil d'authenticité, de créativité et de modernité.
+              Le Roha Restaurant est une invitation au voyage afin de découvrir
+              la culture éthiopienne et ses saveurs.
             </p>
           </div>
           <div className="relative h-96">

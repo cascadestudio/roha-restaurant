@@ -16,8 +16,8 @@ export default function PracticalInfo() {
               Horaires d'ouverture
             </h3>
             <ul>
-              <li>Lundi - Vendredi : 12h00 - 14h30, 19h00 - 22h30</li>
-              <li>Samedi - Dimanche : 12h00 - 23h00</li>
+              <li>Lundi - Samedi : 12h00 - 15h00, 19h00 - 22h30</li>
+              <li>Dimanche : Fermé</li>
             </ul>
             <div className="flex justify-center sm:block">
               <button className="uppercase mt-8 bg-[#FDF6E9] text-[#4A2511] border border-[#4A2511] font-bold py-2 px-4 rounded-md transition duration-300 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:shadow-[0px_0px_0px_0px_rgba(0,0,0,1)] hover:translate-x-[2px] hover:translate-y-[2px]">
