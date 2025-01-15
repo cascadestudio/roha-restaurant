@@ -42,7 +42,7 @@ export default function Footer() {
               href="https://www.cascadestudio.fr"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-[#FDF6E9] hover:underline transition duration-300 mr-2"
+              className="hover:text-[#FDF6E9] hover:underline transition duration-300 mr-4"
             >
               Créé par le studio Cascade
             </a>
